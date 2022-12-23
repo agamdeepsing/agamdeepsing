@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science, ML, DL, Bigdata**
 
-- 💬 Ask me about **Python, Sql**
+- 💬 Ask me about **Python, Sql, Machine Learning**
 
 - 📫 How to reach me **agamdeep8467@gmail.com**
 
